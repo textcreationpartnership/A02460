@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon preached at Nevvport-Paignell in the Countie of Buckingham. By R.H.Hacket, Roger, 1559-1621
+
+1. To the right worſhipfull, M. Iohn Tompſon Eſquier, one of her Maiesties auditors in the Eſchequer, and iuſtice of Peace and Quorum in her Maieſties ſhires of Buck. and Bedf. all increaſe of worſhip with all ſpirituall good.
+
 #####Body#####
-A sermon preached at Nevvport-Paignell in the Countie of Buckingham. By R.H.Hacket, Roger, 1559-1621
+
+1. A Sermon preached at Newport Paignell in the countie of Buckes. taken out of the 2. Cor. 5. ver. 20.21.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
